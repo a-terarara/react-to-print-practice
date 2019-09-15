@@ -51,7 +51,7 @@ export default function Report() {
       <AppBar position="relative">
         <Toolbar>
           <Typography variant="h6" color="inherit" noWrap>
-            Reactと印刷とIE
+            印刷してくれる君
           </Typography>
         </Toolbar>
       </AppBar>
@@ -66,7 +66,7 @@ export default function Report() {
               color="textPrimary"
               gutterBottom
             >
-              印刷テスト
+              プロフィール一覧
             </Typography>
           </Container>
         </div>
